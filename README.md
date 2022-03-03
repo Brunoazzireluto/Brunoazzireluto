@@ -9,6 +9,8 @@ Uma das coisas que não vivo sem é música, álem de jogar nas horas vagas. Amo
 Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev.to, não esqueça de me seguir lá, podemos jogar algo também se quiser o/
 
 ---
+<br />
+
 ### Linguagens e ferramentas:  💻
 
 
@@ -61,6 +63,7 @@ Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev
 <img align="left" alt="Arduino" width="22px" src="https://github.com/Brunoazzireluto/BrunoAzzireluto/blob/master/images/icons/arduino.svg">
 </a>
 
+<br />
 
 ---
 
@@ -111,12 +114,13 @@ Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev
 <img align="left" alt="Azzi's Reddit" width="22px" src="https://github.com/Brunoazzireluto/BrunoAzzireluto/blob/master/images/icons/reddit.svg">
 </a>
 
+<br />
 ---
 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html&layout=compact&theme=tokyonight" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=tokyonight"/></td>
     </tr>   
   </table>
@@ -125,5 +129,8 @@ Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev
 ---
 
 ### O que eu estava ouvindo recentemente 🎧
+<center>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12148535604&width=500)
+
+</center> 
