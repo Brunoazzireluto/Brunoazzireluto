@@ -6,13 +6,14 @@ Atualmente estou estudando Ciência de dados e me divirto um pouco com o Arduino
 
 Uma das coisas que não vivo sem é música, álem de jogar nas horas vagas. Amo principalmente Rpgs, inclusive meus favoritos são fallout e Skyrim.
 
-Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev.to, não esqueça de me seguir lá, podemos jogar algo também se quiser o/
+Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no [Dev.to](https://dev.to/brunoazzireluto), não esqueça de me seguir lá, Se tiver Alguma dúvida pode me chamar, ficarei feliz em ajudar, ou também podemos jogar algo o/
 
 ---
 <br />
 
 ### Linguagens e ferramentas:  💻
 
+<br />
 
 <a href="https://www.python.org" action="_blank">
 <img align="left" alt="Python" width="22px" src="https://github.com/Brunoazzireluto/BrunoAzzireluto/blob/master/images/icons/python.svg">
@@ -64,10 +65,14 @@ Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev
 </a>
 
 <br />
+<br />
 
 ---
 
 ### Onde me encontrar?  🔍
+
+<br />
+
 
 <a href="https://www.linkedin.com/in/bruno-alves-de-oliveira-4014a8127/" action="_blank">
 <img align="left" alt="Azzi's Linkedin" width="22px" src="https://github.com/Brunoazzireluto/BrunoAzzireluto/blob/master/images/icons/linkedin.svg">
@@ -115,21 +120,23 @@ Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no Dev
 </a>
 
 <br />
+<br />
+
 ---
 
 <center>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=tokyonight"/></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=tokyonight"/></td>
     </tr>   
   </table>
 </center>  
 
 ---
 
-### O que eu estava ouvindo recentemente 🎧
-<center>
+### O que eu estava ouvindo 🎧
+<center align="center">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12148535604&width=500)
 
