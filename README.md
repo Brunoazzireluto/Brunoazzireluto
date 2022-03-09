@@ -6,7 +6,9 @@ Atualmente estou estudando Ciência de dados e me divirto um pouco com o Arduino
 
 Uma das coisas que não vivo sem é música, álem de jogar nas horas vagas. Amo principalmente Rpgs, inclusive meus favoritos são fallout e Skyrim.
 
-Futuramente pretendo começar a escrever alguns tutoriais e outras coisas no [Dev.to](https://dev.to/brunoazzireluto), não esqueça de me seguir lá, Se tiver Alguma dúvida pode me chamar, ficarei feliz em ajudar, ou também podemos jogar algo o/
+Futuramente, pretendo escrever no [Dev.to](https://dev.to/brunoazzireluto). Então não se esqueça de me seguir lá. Se você tiver alguma dúvida ou apenas quiser jogar algo, fique a vontade para me chamar.
+
+
 
 ---
 <br />
