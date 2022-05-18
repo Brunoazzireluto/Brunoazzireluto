@@ -129,7 +129,7 @@ Futuramente, pretendo escrever no [Dev.to](https://dev.to/brunoazzireluto). Ent√
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html&hide=c++&layout=compact&theme=tokyonight" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html&hide=c+&layout=compact&theme=tokyonight" /></td>
         <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=tokyonight"/></td>
     </tr>   
   </table>
