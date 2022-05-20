@@ -1,29 +1,73 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
----
+<br>
 
+---
+<br>
+
+<img src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/code.gif?raw=true" min-width="220px" max-width="220px" width="220px" align="right" alt="dev Azzi">
+
+<br />
+<p align="left">
 Pode me chamar de Azzi, Sou dev Fullstack Python e também dev flutter.
-Atualmente estou estudando Ciência de dados e me divirto um pouco com o Arduino
+Atualmente estou estudando Ciência de dados e me divirto um pouco com o Arduino.
+
 
 Uma das coisas que não vivo sem é música, álem de jogar nas horas vagas. Amo principalmente Rpgs, inclusive meus favoritos são fallout e Skyrim.
 
 Futuramente, pretendo escrever no [Dev.to](https://dev.to/brunoazzireluto). Então não se esqueça de me seguir lá. Se você tiver alguma dúvida ou apenas quiser jogar algo, fique a vontade para me chamar.
+</p>
 
+<br />
+<br />
 
 
 ---
+
+
+### Linguagens:  ✒️
+
 <br />
 
-### Linguagens e ferramentas:  💻
+<div style="display: inline_block">
 
+<a href="https://www.python.org" action="_blank" style="margin-right: 5px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="75" height="75"/>  
+</a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" />
+</a>
+<img align="center" alt="HMTL5" style="margin-right: 5px" src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="CSS3" style="margin-right: 5px" src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<a href="https://www.javascript.com" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="https://www.arduino.cc" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</a>
+
+
+</div><br/>
+
+### Ferramentas:   🛠
 <br />
+ <!-- https://devicon.dev -->
 
-<a href="https://www.python.org" action="_blank">
-<img align="left" alt="Python" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/python.svg">
+<div style="display: inline_block">
+
+<a href="https://www.oracle.com/br/cloud/" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="OCI" src="https://img.shields.io/badge/-Oracle%20Cloud-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+<a href="https://www.mysql.com" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+<a href="https://git-scm.com" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/-GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="https://code.visualstudio.com" action="_blank" style="margin-right: 5px">
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/-vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </a>
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" action="_blank">
-<img align="left" alt="flask" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/flask.svg">
-</a>
+</div><br/>
 
 <a href="https://flutter.dev" action="_blank">
 <img align="left" alt="Flutter" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/flutter.svg">
@@ -33,41 +77,14 @@ Futuramente, pretendo escrever no [Dev.to](https://dev.to/brunoazzireluto). Ent�
 <img align="left" alt="Dart" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/dart.svg">
 </a>
 
-<a href="https://github.com/Brunoazzireluto/BrunoAzzireluto/blob/master/images/icons/dart.svg" action="_blank">
-<img align="left" alt="HTML" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/html-5.svg">
-</a>
 
-<a href="https://github.com/Brunoazzireluto/BrunoAzzireluto/blob/master/images/icons/css-3.svg" action="_blank">
-<img align="left" alt="CSS" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/css-3.svg">
-</a>
-
-<a href="https://www.javascript.com" action="_blank">
-<img align="left" alt="JS" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/javascript.svg">
-</a>
-
-<a href="https://www.oracle.com/br/cloud/" action="_blank">
-<img align="left" alt="Oracle OCI" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/oracle.svg">
-</a>
-
-<a href="https://www.mysql.com" action="_blank">
-<img align="left" alt="MySQL" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/mysql.svg">
-</a>
 
 <a href="https://code.visualstudio.com" action="_blank">
 <img align="left" alt="Vscode" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/vscode.svg">
 </a>
 
-<a href="https://git-scm.com" action="_blank">
-<img align="left" alt="git" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/git.svg">
-</a>
 
 
-<a href="https://www.arduino.cc" action="_blank">
-<img align="left" alt="Arduino" width="22px" src="https://github.com/Brunoazzireluto/Brunoazzireluto/blob/master/images/icons/arduino.svg">
-</a>
-
-<br />
-<br />
 
 ---
 
