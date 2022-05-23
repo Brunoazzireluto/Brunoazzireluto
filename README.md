@@ -129,7 +129,7 @@
     <img align="left" alt="Azzi's Telegram" style="margin-right: 10px;margin-bottom: 10px" src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <a href="https://discordapp.com/users/457705373722345473" action="_blank">
-    <img align="left" alt="Azzi's Discord" style="margin-right: 10px;margin-bottom: 10px" src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img align="left" alt="Azzi's Discord" style="margin:10px" src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     <a href="https://stackoverflow.com/users/14852405/brunoazzireluto" action="_blank">
     <img align="left" alt="Azzi's StackOverflow" style="margin-right: 10px;margin-bottom: 10px" src="https://img.shields.io/badge/-Stack%20Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
@@ -179,13 +179,13 @@
   <details>
     <summary>Próximo Estudos</summary>
     <div style="display: inline_block" align="center">
-      <a href="https://www.swift.org" action="_blank" style="margin-right: 10px">
+      <a href="https://www.swift.org" action="_blank" style="margin:10px">
         <img alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg"  width="90px" height="90px"/>  
       </a>
-      <a href="https://developer.android.com/kotlin" action="_blank" style="margin-right: 10px">
+      <a href="https://developer.android.com/kotlin" action="_blank" style="margin:10px">
         <img  alt="Kotlin"  width="90px" height="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" /> 
       </a>
-      <a href="https://www.docker.com" action="_blank" style="margin-right: 10px">
+      <a href="https://www.docker.com" action="_blank" style="margin:10px">
         <img  alt="Docker"  width="90px" height="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/> 
       </a>
     </div>
