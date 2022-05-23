@@ -29,6 +29,7 @@
   <br>
   <details>
     <summary>Linguages</summary>
+    <br>
     <div style="display: inline_block">
       <a href="https://www.python.org" action="_blank" style="margin-right: 5px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="75" height="75"/>  
@@ -80,6 +81,7 @@
   <br>
   <details>
   <summary>Editores e IDE's</summary>
+  <br>
     <div style="display: inline_block">
       <a href="https://code.visualstudio.com" action="_blank" style="margin-right: 5px">
         <img  alt="VS code"  width="75" height="75"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> 
@@ -92,6 +94,7 @@
   <br>
   <details>
   <summary>Sistema Operacionais</summary>
+  <br>
     <div style="display: inline_block">
       <a href="https://www.apple.com/br/macos/monterey/" action="_blank" style="margin-right: 5px">
         <img  alt="MacOS"  width="75" height="75"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
