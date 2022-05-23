@@ -16,7 +16,7 @@
     </h1>
     <p>
       Eu me chamo Bruno Alves, mas pode me chamar de Bruno Azzireluto ou somente Azzi. Tenho 23 anos e atuo na aréa de desenvolvimento de Web Apps desde 2021.
-      Atualmente Trabalho como Desenvolvedor Fullstack Júnior na Maeda-st e Desenvolvedor Fullstack e Mobile com Foco em Flutter e Python na N2Bit.
+      Atualmente Trabalho como Desenvolvedor Fullstack Júnior na Maeda-st e Desenvolvedor Fullstack  Mobile com Foco em Flutter e Python na N2Bit.
     </p>
     <p>Futuramente, pretendo escrever no <a src="https://dev.to/brunoazzireluto">Dev.to</a> então não se esqueça de me seguir lá. Se você tiver alguma dúvida ou apenas quiser jogar algo, fique a vontade para me chamar.</p>
     <img width="200px" height="150px"   src="https://media0.giphy.com/media/Y2bjBp6K9ujzOKem68/giphy.gif?cid=ecf05e47rnt3hfn3lh3111e5di9ws7jeyalefhvh5xgh9a6p&rid=giphy.gif&ct=s">
