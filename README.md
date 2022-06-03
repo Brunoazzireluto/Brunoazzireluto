@@ -108,7 +108,7 @@
 <h4 align="center"><img  width="200px" height="150px"   src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76119a32c7e1cde9ec2e4419478dd501ee0171e1bfbf&rid=giphy.gif&ct=s"></h4>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Brunoazzireluto&color=brightgreen&style=flat-square)
 
 <h2 align="center">Onde me Encontrar</h2>
 <br>
@@ -279,8 +279,9 @@
 </div> 
 
 ---
-    <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/Brunoazzireluto/count.svg" /></p> 
-      <br></div>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Brunoazzireluto/count.svg" /></p> 
+<br></div>
 
