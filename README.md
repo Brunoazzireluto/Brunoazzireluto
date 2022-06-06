@@ -188,6 +188,9 @@
       <a href="https://www.docker.com" action="_blank" style="margin:10px">
         <img  alt="Docker"  width="90px" height="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/> 
       </a>
+      <a href="https://dotnet.microsoft.com/en-us/" action="_blank" style="margin:10px">
+        <img  alt="Docker"  width="90px" height="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/> 
+      </a>
     </div>
     <br>
     <h4 align="center"><img  width="200px" height="150px" src="https://media4.giphy.com/media/QVyPr4CwtLTG7Kritt/giphy.gif?cid=ecf05e47cfghyq2a9l6vots5azp4s7ucz9gyqet8mkrxn8q5&rid=giphy.gif&ct=s"></h4>
