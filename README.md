@@ -22,7 +22,6 @@ Futuramente, pretendo escrever no [https://dev.to/brunoazzireluto](Dev.to) entã
 
 
 
----
 
 <h2 align="center"> Conhecimentos</h2>
   <br>
