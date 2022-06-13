@@ -17,7 +17,7 @@ Atualmente Trabalho como Desenvolvedor Fullstack Júnior na Maeda-st e Desenvolv
 N2Bit.
 Futuramente, pretendo escrever no [https://dev.to/brunoazzireluto](Dev.to) então não se esqueça de me seguir lá. Se você tiver alguma dúvida ou apenas quiser jogar algo, fique a vontade para me chamar.
 
-<img align="center" width="200px" height="150px"   src="https://media0.giphy.com/media/Y2bjBp6K9ujzOKem68/giphy.gif?cid=ecf05e47rnt3hfn3lh3111e5di9ws7jeyalefhvh5xgh9a6p&rid=giphy.gif&ct=s">
+<h1 align="center"><img width="200px" height="150px"   src="https://media0.giphy.com/media/Y2bjBp6K9ujzOKem68/giphy.gif?cid=ecf05e47rnt3hfn3lh3111e5di9ws7jeyalefhvh5xgh9a6p&rid=giphy.gif&ct=s"></h1>
 
 
 
