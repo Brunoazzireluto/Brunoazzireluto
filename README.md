@@ -188,7 +188,7 @@ Futuramente, pretendo escrever no [https://dev.to/brunoazzireluto](Dev.to) entã
 
 <table>
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html,cmake,css,c&layout=compact&theme=tokyonight" /></td>
+    <td><img width="400px" align="left" src="github-readme-stats-two-xi-99.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html,cmake,css,c&layout=compact&theme=tokyonight" /></td>
     <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=tokyonight"/></td>
   </tr>   
 </table> 
