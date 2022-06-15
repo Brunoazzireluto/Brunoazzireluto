@@ -97,7 +97,7 @@ Futuramente, pretendo escrever no [https://dev.to/brunoazzireluto](Dev.to) entã
     <a href="https://www.linkedin.com/in/bruno-alves-de-oliveira-4014a8127/" action="_blank">
     <img align="left" alt="Azzi's Linkedin" style="margin-right: 10px;margin-bottom: 10px" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/bruno.azzireluto/" action="_blank">
+    <a href="https://www.instagram.com/brunoazzireluto/" action="_blank">
     <img align="left" alt="Azzi's Instagram" style="margin-right: 10px;margin-bottom: 10px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://twitter.com/Azzireluto" action="_blank">
