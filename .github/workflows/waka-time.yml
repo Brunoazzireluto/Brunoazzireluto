@@ -10,7 +10,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Brunoazzireluto/Brunoazzireluto@master
+      - uses: Brunoazzireluto/waka-time@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.TOKEN_GH }}
+          SHOW_PROJECTS: "False"
