@@ -96,9 +96,8 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 ## métricas
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
-
-
 
 ---
 
@@ -116,8 +115,6 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Brunoazzireluto/count.svg" /></p> 
 <br></div>
-
-<h1 align="center"><img width="200px" height="150px"   src="https://media0.giphy.com/media/Y2bjBp6K9ujzOKem68/giphy.gif?cid=ecf05e47rnt3hfn3lh3111e5di9ws7jeyalefhvh5xgh9a6p&rid=giphy.gif&ct=s"></h1>
 
 <div align="center">
 <img src="https://media0.giphy.com/media/ejyRYttU1toqHjNZOA/giphy.gif?cid=ecf05e47xzcqymp5fxqujbpqcputq2bqzmqns2k2vxg5h95c&rid=giphy.gif&ct=s" > 
