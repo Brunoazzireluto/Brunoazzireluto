@@ -21,4 +21,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          LOCALE: "pt_BR"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          LOCALE: "pt_br"
