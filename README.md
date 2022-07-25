@@ -70,7 +70,7 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
   [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
   [![Swift](https://img.shields.io/badge/-swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
   [![Kotlin](https://img.shields.io/badge/-kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin)
-  [![jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io)
+  [![Argo](https://img.shields.io/badge/-Argo-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://www.jenkins.io)
   [![swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=Swagger&logoColor=black)](https://swagger.io)
   [![]()]()
   [![]()]()
