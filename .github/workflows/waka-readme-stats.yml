@@ -23,4 +23,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LANGUAGE: "False"
-          LOCALE: "pt_br"
+          LOCALE: "PT"
