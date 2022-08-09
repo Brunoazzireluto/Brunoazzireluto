@@ -57,7 +57,9 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 [![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev) <br>
 [![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com) <br>
+[![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) <br>
 [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
+
 
 <br>
 
