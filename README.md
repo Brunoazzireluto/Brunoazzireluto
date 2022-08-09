@@ -32,6 +32,7 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar coisas novas, 
 [![Mysql](https://img.shields.io/badge/-Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/cloud/)
+[![Docker](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Arduino](https://img.shields.io/badge/-arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 
 <br>
@@ -65,7 +66,6 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 <br>
 <div style="display: inline_block" align="center">
 
-  [![Dcoker](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
   [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
   [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
   [![Swift](https://img.shields.io/badge/-swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
