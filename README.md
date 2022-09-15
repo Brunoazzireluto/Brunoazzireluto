@@ -55,11 +55,9 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 ### O que estou estudando:
 
-[![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev) <br>
-[![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com) <br>
-[![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) <br>
-[![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
-
+  [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+  [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+  [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
 
 <br>
 
@@ -68,8 +66,9 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 <br>
 <div style="display: inline_block" align="center">
 
-  [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+  [![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev) <br>
+  [![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com) <br>
+  [![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) <br>
   [![Swift](https://img.shields.io/badge/-swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
   [![Kotlin](https://img.shields.io/badge/-kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin)
   [![Argo](https://img.shields.io/badge/-Argo-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://www.jenkins.io)
