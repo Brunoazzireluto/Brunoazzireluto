@@ -66,9 +66,9 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 <br>
 <div style="display: inline_block" align="center">
 
-  [![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev) <br>
-  [![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com) <br>
-  [![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) <br>
+  [![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev)
+  [![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com)
+  [![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
   [![Swift](https://img.shields.io/badge/-swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
   [![Kotlin](https://img.shields.io/badge/-kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin)
   [![Argo](https://img.shields.io/badge/-Argo-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://www.jenkins.io)
