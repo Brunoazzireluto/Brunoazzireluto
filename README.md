@@ -86,7 +86,7 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 <table>
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=html,cmake,css,c&layout=compact&langs_count=6&theme=tokyonight" /></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&hide=cmake,c&layout=compact&langs_count=8&theme=tokyonight" /></td>
     <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=tokyonight"/></td>
   </tr>   
 </table> 
