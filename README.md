@@ -7,7 +7,7 @@ Eu sou o Bruno Azzireluto ou somente Azzi. Atualmente Trabalho como Desenvolvedo
 estou sempre aberto a Estudar novas tecnologias e também a jogar coisas novas, sinta-se livre para me adicionar em:
 <br>
 
-[![linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/brunoazzireluto/)
+[![linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoazzireluto/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoazzireluto/)
 [![Telegram](https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Azzireluto)
 [![Discord](https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/457705373722345473)
