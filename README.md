@@ -39,8 +39,8 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar coisas novas, 
 
 [![Vscode](https://img.shields.io/badge/IDE-vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com)
 [![Pycharm](https://img.shields.io/badge/IDE-Pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pt-br/pycharm/)
-[![MacOS](https://img.shields.io/badge/macOS-BigSur-%23000000?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/br/macos/monterey/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
+[![Fedora](https://img.shields.io/badge/Fedora-37-%2351A2DA?style=for-the-badge&logo=fedora)](https://getfedora.org/pt_BR/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-%23E95420?style=for-the-badge&logo=ubuntu)](https://ubuntu.com)
 
 <br>
 
