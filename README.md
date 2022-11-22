@@ -37,8 +37,8 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar coisas novas, 
 
 <br>
 
-[![Vscode](https://img.shields.io/badge/IDE-vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com)
-[![Pycharm](https://img.shields.io/badge/IDE-Pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pt-br/pycharm/)
+[![Vscode](https://img.shields.io/badge/IDE-vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+[![Pycharm](https://img.shields.io/badge/IDE-Pycharm-%23000000?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pt-br/pycharm/)
 [![Fedora](https://img.shields.io/badge/Fedora-37-%2351A2DA?style=for-the-badge&logo=fedora)](https://getfedora.org/pt_BR/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-%23E95420?style=for-the-badge&logo=ubuntu)](https://ubuntu.com)
 
@@ -55,9 +55,16 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 ### O que estou estudando:
 
-  [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-  [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
+<br>
+
+  [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+  [![Styled-components](https://img.shields.io/badge/-Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
+  [![React-Hook-forms](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://react-hook-form.com)
+
+
+
+
+
 
 <br>
 
@@ -66,6 +73,19 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 <br>
 <div style="display: inline_block" align="center">
 
+  [![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+  [![Next.js](https://img.shields.io/badge/-next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+  [![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/)
+  [![Node.js](https://img.shields.io/badge/-node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt-br/)
+  [![Express](https://img.shields.io/badge/-express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/pt-br/)
+  [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+  [![.Net](https://img.shields.io/badge/-dotnet-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
+  [![Typescrip](https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+  [![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+  [![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+  [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
+  [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+  [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
   [![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev)
   [![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com)
   [![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
