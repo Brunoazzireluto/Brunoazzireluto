@@ -3,7 +3,7 @@
 
 
 
-Eu sou o Bruno Azzireluto ou somente Azzi. Atualmente Trabalho como Desenvolvedor Fullstack na Maeda-st e Diretor-Desenvolvedor na N2Bit.
+Eu sou o Bruno Azzireluto ou somente Azzi. Atualmente Trabalho como Desenvolvedor Fullstack na Maeda-st e Desenvolvedor na N2Bit.
 estou sempre aberto a Estudar novas tecnologias e também a jogar coisas novas, sinta-se livre para me adicionar em:
 <br>
 
