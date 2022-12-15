@@ -27,21 +27,20 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 
 
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >
-  <img  width="100px" height="80px"   src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76119a32c7e1cde9ec2e4419478dd501ee0171e1bfbf&rid=giphy.gif&ct=s">   
-  <h1 style="color:#764D9C; font-weight: bold;" >Tecnologias e Ferramentas</h1>
+<div align="center" >
+  <img  width="120px" height="100px"   src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76119a32c7e1cde9ec2e4419478dd501ee0171e1bfbf&rid=giphy.gif&ct=s">   
+  <h2>Tecnologias e Ferramentas</h2>
 </div> 
  
 
 <br>
 <br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
-  <h3 style="color:#92D534; font-weight: bold;"  >Front End</h3>
+<div align="center" >   
+  <h3>Front End</h3>
 </div> 
-<br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
+<div align="center">   
 
   [![Html](https://img.shields.io/badge/-html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   [![Css](https://img.shields.io/badge/-css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -54,12 +53,11 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 <br>
 
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
-  <h3 style="color:#92D534; font-weight: bold;" >Back End</h3>
+<div align="center" >   
+  <h3>Back End</h3>
 </div> 
-<br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
+<div align="center">   
 
   [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
   [![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
@@ -68,24 +66,22 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 </div>
 <br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
-  <h3 style="color:#92D534; font-weight: bold;" >Banco de Dados</h3>
+<div align="center" >   
+  <h3>Banco de Dados</h3>
 </div> 
-<br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >  
+<div align="center">  
 
   [![Mysql](https://img.shields.io/badge/-Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
 </div>
 <br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
-  <h3 style="color:#92D534; font-weight: bold;" >DevOps</h3>
+<div align="center" >   
+  <h3>DevOps</h3>
 </div> 
-<br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >  
+<div align="center" >  
 
   [![Oracle](https://img.shields.io/badge/-Oracle%20Cloud-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/cloud/)
   [![Docker](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
@@ -94,12 +90,11 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 <br>
 
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
-  <h3 style="color:#92D534; font-weight: bold;" >Ferramentas </h3>
+<div align="center" >   
+  <h3>Ferramentas </h3>
 </div> 
-<br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >  
+<div align="center" >  
 
   [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
   [![diagrams.net](https://img.shields.io/badge/-diagrams.net-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.diagrams.net)
@@ -111,12 +106,11 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 </div>
 <br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >   
-  <h3 style="color:#92D534; font-weight: bold;" >Editores de Código e Sitemas </h3>
+<div align="center" >   
+  <h3>Editores de Código e Sitemas </h3>
 </div> 
-<br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content: center; align-items: center" >  
+<div align="center"  >  
 
 [![Vscode](https://img.shields.io/badge/IDE-vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 [![Pycharm](https://img.shields.io/badge/IDE-Pycharm-%23000000?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pt-br/pycharm/)
@@ -128,7 +122,7 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 
 
 ---
-<h2 style="color:#764D9C; font-weight: bold;">Estudos</h2>
+<h2>Estudos</h2>
 
 <br>
 
@@ -136,7 +130,7 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 <br>
 
-<h3 style="color:#92D534; font-weight: bold;"> O que estou estudando:</h3>
+<h3> O que estou estudando:</h3>
 
 <br>
 
@@ -185,7 +179,7 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 ---
 
 
-<h2 style="color:#764D9C; font-weight: bold;">Status</h2>
+<h2>Status</h2>
 
 <table>
   <tr>
@@ -196,50 +190,15 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 ---
 
-<h2 style="color:#764D9C; font-weight: bold;">métricas</h2>
+<h2>métricas</h2>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-🌆 Daytime    290 commits    █████████████████░░░░░░░░   69.21% 
-🌃 Evening    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
-Tuesday      98 commits     █████░░░░░░░░░░░░░░░░░░░░   23.39% 
-Wednesday    89 commits     █████░░░░░░░░░░░░░░░░░░░░   21.24% 
-Thursday     75 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Friday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-VS Code                  11 hrs 23 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    11 hrs 23 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 15/12/2022 18:36:16 UTC
 <!--END_SECTION:waka-->
 
 ---
 
-<h2 style="color:#764D9C; font-weight: bold;">O que eu estava ouvindo 🎧</h2>
+<h2>O que eu estava ouvindo 🎧</h2>
 <br>
 <div align="center">
 
@@ -250,7 +209,7 @@ Linux                    11 hrs 23 mins      ███████████�
 ---
 
 <div align="center">
-  <br><p style="color:#764D9C; font-weight: bold;" align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Brunoazzireluto/count.svg" /></p> 
 <br></div>
 
