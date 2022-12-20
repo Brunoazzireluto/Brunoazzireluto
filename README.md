@@ -136,7 +136,8 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
   [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
   [![.Net](https://img.shields.io/badge/-dotnet-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
-  [![React-Hook-forms](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://react-hook-form.com)
+  [![Microsoft SQL Serverr](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://react-hook-form.com)
+  [![React-Hook-forms](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-2022?SilentAuth=1&wa=wsignin1.0)
   [![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
 
