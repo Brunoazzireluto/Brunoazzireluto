@@ -62,6 +62,8 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
   [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
   [![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
   [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
+  [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+  [![.Net](https://img.shields.io/badge/-dotnet-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
 
 </div>
 <br>
@@ -73,6 +75,7 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
 <div align="center">  
 
   [![Mysql](https://img.shields.io/badge/-Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+  [![Microsoft SQL Serverr](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://react-hook-form.com)
 
 </div>
 <br>
@@ -134,9 +137,8 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 <br>
 
-  [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-  [![.Net](https://img.shields.io/badge/-dotnet-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
-  [![Microsoft SQL Serverr](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://react-hook-form.com)
+  [![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+  [![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
   [![React-Hook-forms](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-2022?SilentAuth=1&wa=wsignin1.0)
   [![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
@@ -158,8 +160,7 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
   [![Express](https://img.shields.io/badge/-express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/pt-br/)
   
   [![Typescrip](https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-  [![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-  [![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+
 
   [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
   [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
