@@ -185,8 +185,8 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 <table>
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift&layout=compact&langs_count=10&theme=ocean_dark" /></td>
-    <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift&layout=compact&langs_count=10&theme=ocean_dark" /></td>
+    <td><img width="450px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/></td>
   </tr>   
 </table> 
 
