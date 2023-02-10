@@ -47,6 +47,8 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
   [![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
   [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
   [![Styled-components](https://img.shields.io/badge/-Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
+  [![tailwindcss](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)](https://tailwindcss.com/docs/installation)
   [![Jinja](https://img.shields.io/badge/-jinja-%23B41717?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
 
 </div>
@@ -62,6 +64,8 @@ estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, 
   [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
   [![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
   [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
+  [![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+  [![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
   [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
   [![.Net](https://img.shields.io/badge/-dotnet-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
 
@@ -137,8 +141,7 @@ Uma breve visualização do que estou aprendendo e quais serão meus proximos es
 
 <br>
 
-  [![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-  [![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+
   [![React-Hook-forms](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-2022?SilentAuth=1&wa=wsignin1.0)
   [![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
