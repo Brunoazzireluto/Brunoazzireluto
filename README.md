@@ -1,258 +1,76 @@
-# Olá    <img src="https://media3.giphy.com/media/KCXSTJhTuAM8g5Qzay/giphy.gif?cid=790b7611dec75bc43ffe45778aebbfb5270659b28f4f8109&rid=giphy.gif&ct=s" width="65px" height="65px" align="center">
-
-
-<!-- <main style="background-color: #151A28"> -->
-
-
-Eu sou o Bruno Alves, mas você pode me chamar de Azzi. Atualmente Trabalho como Desenvolvedor Fullstack na Maeda-st e Desenvolvedor na N2Bit.
-estou sempre aberto a Estudar novas tecnologias e também a jogar alguma coisa, sinta-se livre para me adicionar/seguir em:
-<br>
-<br>
-<br>
-
-[![linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoazzireluto/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoazzireluto/)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/brunoazzireluto)
-[![Wakatime](https://img.shields.io/badge/-wakatime-%23000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Brunoazzireluto)
-[![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14852405/brunoazzireluto)
-[![Spotify](https://img.shields.io/badge/-Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12148535604)
-[![DeviantArt](https://img.shields.io/badge/-DeviantArt-%2305CC47?style=for-the-badge&logo=DeviantArt&logoColor=black)](https://www.deviantart.com/brunoazzireluto)
-[![Steam](https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/brunoazzireluto/)
-[![Discord](https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/457705373722345473)
-[![Telegram](https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Azzireluto)
+<h1 align="center"> <img src="https://media3.giphy.com/media/KCXSTJhTuAM8g5Qzay/giphy.gif?cid=790b7611dec75bc43ffe45778aebbfb5270659b28f4f8109&rid=giphy.gif&ct=s" width="65px" height="65px" align="center"> Hi I'm Bruno</h1>
+<h3 align="center">A Fullstack developer from São Bernardo do campo</h3>
 
 <br>
 
----
+- 💼 I work as a Junior Developer at Maeda-st
 
+- 💻 Learning Node.Js and Express
 
+- 🔭 Currently focused on increasing my skills on how to develop and create better solutions and designs
 
-<div align="center" >
-  <img  width="120px" height="100px"   src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=790b76119a32c7e1cde9ec2e4419478dd501ee0171e1bfbf&rid=giphy.gif&ct=s">   
-  <h2>Tecnologias e Ferramentas</h2>
-</div> 
- 
+- ✍🏻 Learning to draw pixel art
+
+- ⚔️ Passionate about games, RPG, Music, fantasy stories and science fiction
 
 <br>
+
+## Skills
+
 <br>
 
-<div align="center" >   
-  <h3>Front End</h3>
-</div> 
+### **Front-End**
 
-<div align="center">   
 
-  [![Html](https://img.shields.io/badge/-html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  [![Css](https://img.shields.io/badge/-css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-  [![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
-  [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-  [![Styled-components](https://img.shields.io/badge/-Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
-  [![tailwindcss](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)](https://tailwindcss.com/docs/installation)
-  [![Jinja](https://img.shields.io/badge/-jinja-%23B41717?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
+<img alt='HTML' title='HTML' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />|<img alt='CSS' title='CSS' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />|<img alt='React' title='React' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />|<img alt='Next.Js' title='Next.Js' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />|<img alt='Tailwind CSS' title='Tailwind CSS' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />|<svg role="img" viewBox="0 0 24 24" alt='styled-components' title='styled-components' width=55  fill='#DB7093' xmlns="http://www.w3.org/2000/svg"><title>Styled-Components</title><path d="M16.214 6.762l-.075.391c-.116.741-.074.953.244 1.228l.307.254-.318 1.418c-.19.846-.423 1.555-.571 1.788-.127.201-.275.497-.307.656-.053.19-.233.381-.508.55-.243.138-.72.508-1.058.805-.27.243-.456.392-.557.456l-.33.261c-.106.17-.166.307-.189.411-.023.107-.01.178.024.23.033.05.09.085.168.107a.954.954 0 00.282.023 3 3 0 00.632-.112c.07-.019.125-.037.173-.053.074-.091.245-.263.548-.562.804-.793 1.111-1.227.794-1.11-.117.042-.064-.064.137-.276.424-.413.667-1.037 1.175-2.994.402-1.545.402-1.567.698-1.567.139 0 .532.024.532.024V6.762h-.902zm3.839 3.165c-.064 0-.17.096-.233.202-.116.19.021.306 1.767 1.396 1.037.657 1.873 1.217 1.852 1.26-.021.031-.868.582-1.883 1.217-1.842 1.142-1.852 1.153-1.683 1.386.212.275 0 .37 2.391-1.122L24 13.155v-.836l-1.937-1.196c-1.047-.656-1.957-1.185-2.01-1.196zm-16.085.117c-.053 0-.963.54-2.01 1.185L0 12.425v.836l1.947 1.217c1.08.666 1.99 1.217 2.032 1.217.042 0 .127-.096.212-.212.127-.201.02-.286-1.768-1.418C.72 12.996.54 12.848.71 12.732c.106-.074.91-.572 1.778-1.111 1.979-1.217 1.873-1.133 1.714-1.387-.063-.105-.17-.2-.233-.19zm8.684.023c-.292-.002-.92.443-2.8 1.978-.081.193-.088.326-.051.412.024.059.068.1.129.13.06.03.138.048.224.055.171.015.373-.012.536-.044l.11-.025a.386.386 0 01.144-.118c.116-.064.603-.508 1.09-.984.857-.868 1.058-1.26.709-1.387a.24.24 0 00-.09-.017zm2.196.603c-.257.007-.72.305-1.513.938-.398.323-.65.497-.785.533l-.524.414c-.197.36-.226.583-.174.706a.25.25 0 00.138.134.644.644 0 00.24.045 2.18 2.18 0 00.58-.085 3.466 3.466 0 00.291-.092l.029-.012.053-.028c.1-.129.33-.372.618-.652.91-.878 1.375-1.502 1.28-1.735-.043-.113-.117-.17-.233-.166zm-2.424 1.08c-.074.008-.24.136-.539.398-.432.382-.903.602-1.066.504a3.97 3.97 0 01-.114.024c-.166.033-.373.06-.558.045a.708.708 0 01-.252-.063.337.337 0 01-.168-.17c-.037-.09-.037-.202.005-.345l-.65.534-1.471 1.217V15.867l4.82-3.797a.41.41 0 01.016-.123c.037-.134.035-.202-.023-.196zm2.074.639c-.073 0-.195.103-.39.31-.265.283-.682.557-.903.613l-.034.018a2.191 2.191 0 01-.11.042c-.06.02-.138.044-.228.068-.18.049-.404.094-.604.089a.732.732 0 01-.275-.054.344.344 0 01-.184-.18c-.058-.139-.035-.334.092-.611L7.61 16.033v1.205h1.868l3.962-3.112c.103-.114.258-.27.467-.465.56-.519.687-.698.687-.963 0-.206-.023-.31-.096-.31zm.943 1.95l-.339.338c-.19.18-.529.402-.761.497l-.046.02-.003.005-.01.01c-.009.007-.013.008-.02.011a3.432 3.432 0 01-.282.093 3.058 3.058 0 01-.65.115 1.035 1.035 0 01-.31-.027.364.364 0 01-.218-.144c-.048-.074-.062-.173-.035-.295a1.11 1.11 0 01.095-.25l-3.197 2.526h4.252l.508-.582c.698-.814 1.016-1.396 1.016-1.894z"/></svg>
+|--|--|--|--|--|--|
+
+
+### **Back-End**
+
+<img alt='Python' title='Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=55 />|<img alt='Flask' title='Flask' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />|<img alt='Fastapi' title='Fastapi' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />|<img alt='Javascript' title='Javascript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=55 />|<img alt='PHP' title='PHP' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=55 />|<img alt='Laravel' title='Laravel' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />|<img alt='CSharp' title='C#' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />|<img alt='Dotnet' title='.NET' width=55  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+|--|--|--|--|--|--|--|--|
+
+### **Infrastructure**
+
+<img alt='Docker' title='Docker' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />|<svg role="img" viewBox="0 0 24 24" alt='Oracle Cloud' title='Oracle Cloud' width=55 fill='#F80000' xmlns="http://www.w3.org/2000/svg"><title>Oracle</title><path d="M16.412 4.412h-8.82a7.588 7.588 0 0 0-.008 15.176h8.828a7.588 7.588 0 0 0 0-15.176zm-.193 12.502H7.786a4.915 4.915 0 0 1 0-9.828h8.433a4.914 4.914 0 1 1 0 9.828z"/></svg>|<img alt='Fedora' title='Fedora' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />|<img alt='Ubuntu' title='Ubuntu' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+|--|--|--|--|
+
+### **Databases**
+
+<img alt='SQLAlchemy' title='SQLAlchemy' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />|<img alt='MySQL' title='MySQL' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />|<img alt='SQL Server' title='SQL Server' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+|--|--|--|
+
+### **Tests**
+
+<img alt='Pytest' title='Pytest' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />|
+|--|
+
+### **Tools**
+<img alt='Git' title='Git' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />|<svg role="img" viewBox="0 0 24 24"  alt='Diagrams.net' title='Diagrams.net' width=55 Fill='#F08705'  xmlns="http://www.w3.org/2000/svg"><title>Diagrams.net</title><path d="M19.69 13.419h-2.527l-2.667-4.555a1.292 1.292 0 001.035-1.28V4.16c0-.725-.576-1.312-1.302-1.312H9.771c-.726 0-1.312.576-1.312 1.301v3.435c0 .619.426 1.152 1.034 1.28l-2.666 4.555H4.309c-.725 0-1.312.576-1.312 1.301v3.435c0 .725.576 1.312 1.302 1.312h4.458c.726 0 1.312-.576 1.312-1.302v-3.434c0-.726-.576-1.312-1.301-1.312h-.437l2.645-4.523h2.059l2.656 4.523h-.438c-.725 0-1.312.576-1.312 1.301v3.435c0 .725.576 1.312 1.302 1.312H19.7c.726 0 1.312-.576 1.312-1.302v-3.434c0-.726-.576-1.312-1.301-1.312zM24 22.976c0 .565-.459 1.024-1.013 1.024H1.024A1.022 1.022 0 010 22.987V1.024C0 .459.459 0 1.013 0h21.963C23.541 0 24 .459 24 1.013z"/></svg>|<img alt='Figma' title='Figma' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />|<svg role="img" alt='Aseprite' title='Aseprite' width=55  fill='#7D929E' viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Aseprite</title><path d="M4.006 0v1.6h15.988V0zm15.988 1.6v1.6h1.6V1.6zm1.6 1.6v14.4h-1.6v1.6H4.006v-1.6h-1.6V3.2H.809v17.6h1.599v1.6h1.599V24h15.988v-1.6h1.6v-1.6h1.598V3.2zm-19.187 0h1.599V1.6h-1.6zm4.796 3.2v6.4h1.6V6.4zm7.995 0v6.4h1.599V6.4z"/></svg>|<img alt='Vscode' title='Vscode' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|
+|--|--|--|--|--|
+
+<br>
+
+### **My Stats**
+<img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift,dart,blade&layout=compact&langs_count=6&theme=ocean_dark" />|<img width="450px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/>
+|--|--|
+
+
+<br>
+
+<div align='left'>
+
+### **Connect with me**
+
+<a href="https://www.linkedin.com/in/brunoazzireluto/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=55 /></a>|<a href="https://www.deviantart.com/brunoazzireluto"><svg role="img" viewBox="0 0 24 24" fill='#05CC47' width=55 xmlns="http://www.w3.org/2000/svg"><title>DeviantArt</title><path d="M19.207 4.794l.23-.43V0H15.07l-.436.44-2.058 3.925-.646.436H4.58v5.993h4.04l.36.436-4.175 7.98-.24.43V24H8.93l.436-.44 2.07-3.925.644-.436h7.35v-5.993h-4.05l-.36-.438 4.186-7.977z"/></svg></a>|<a href='https://twitter.com/Azzireluto'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=55 /></a>|<a href="https://discordapp.com/users/457705373722345473"><svg role="img" viewBox="0 0 24 24" fill='#5865F2' width=55 xmlns="http://www.w3.org/2000/svg"><title>Discord</title><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg></a>
+|--|--|--|--|
 
 </div>
-<br>
-
-
-<div align="center" >   
-  <h3>Back End</h3>
-</div> 
-
-<div align="center">   
-
-  [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-  [![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
-  [![Fastapi](https://img.shields.io/badge/-fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](fastapi.tiangolo.com)
-  [![PHP](https://img.shields.io/badge/-php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-  [![Laravel](https://img.shields.io/badge/-laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-  [![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-  [![.Net](https://img.shields.io/badge/-dotnet-%23512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
-
-</div>
-<br>
-
-<div align="center" >   
-  <h3>Banco de Dados</h3>
-</div> 
-
-<div align="center">  
-
-  [![Mysql](https://img.shields.io/badge/-Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-  [![Microsoft SQL Serverr](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://react-hook-form.com)
-
-</div>
-<br>
-
-<div align="center" >   
-  <h3>DevOps</h3>
-</div> 
-
-<div align="center" >  
-
-  [![Oracle](https://img.shields.io/badge/-Oracle%20Cloud-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/cloud/)
-  [![Docker](https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-
-</div>
-<br>
-
-
-<div align="center" >   
-  <h3>Ferramentas </h3>
-</div> 
-
-<div align="center" >  
-
-  [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-  [![diagrams.net](https://img.shields.io/badge/-diagrams.net-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.diagrams.net)
-  [![Figma](https://img.shields.io/badge/-figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-  [![aseprite](https://img.shields.io/badge/-aseprite-%237D929E?style=for-the-badge&logo=aseprite&logoColor=white)](https://www.aseprite.org)
-  [![Arduino](https://img.shields.io/badge/-arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
-
-
-</div>
-<br>
-
-<div align="center" >   
-  <h3>Editores de Código e Sitemas </h3>
-</div> 
-
-<div align="center"  >  
-
-[![Vscode](https://img.shields.io/badge/IDE-vscode-%23007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
-[![Pycharm](https://img.shields.io/badge/IDE-Pycharm-%23000000?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pt-br/pycharm/)
-[![Fedora](https://img.shields.io/badge/Fedora-37-%2351A2DA?style=for-the-badge&logo=fedora)](https://getfedora.org/pt_BR/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-%23E95420?style=for-the-badge&logo=ubuntu)](https://ubuntu.com)
-
-</div>
-<br>
-
-
----
-<h2>Estudos</h2>
 
 <br>
-
-Uma breve visualização do que estou aprendendo e quais serão meus proximos estudos
-
-<br>
-
-<h3> O que estou estudando:</h3>
-
-<br>
-
-
-  [![React-Hook-forms](https://img.shields.io/badge/-React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-2022?SilentAuth=1&wa=wsignin1.0)
-  [![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-
-
-
-
-
-<br>
-
-<details>
-<summary >Meus próximos Estudos</summary>
-<br>
-<div style="display: inline_block" align="center">
-
-
-  [![Next.js](https://img.shields.io/badge/-next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-  [![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/)
-  [![Node.js](https://img.shields.io/badge/-node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt-br/)
-  [![Express](https://img.shields.io/badge/-express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/pt-br/)
-  
-  [![Typescrip](https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-
-
-  [![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-  [![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](go.dev)
-  [![CockroachDB](https://img.shields.io/badge/-CockroachDB-%236933FF?style=for-the-badge&logo=Cockroachlabs&logoColor=white)](cockroachlabs.com)
-  [![Kubernetes](https://img.shields.io/badge/-kurbenetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-  [![Swift](https://img.shields.io/badge/-swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org)
-  [![Kotlin](https://img.shields.io/badge/-kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://developer.android.com/kotlin)
-  [![Argo](https://img.shields.io/badge/-Argo-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://www.jenkins.io)
-  [![swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=Swagger&logoColor=black)](https://swagger.io)
-  [![]()]()
-  [![]()]()
-</div>
-</details>
-
-<br>
-
----
-
-
-<h2>Status</h2>
-
-<table>
-  <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift&layout=compact&langs_count=10&theme=ocean_dark" /></td>
-    <td><img width="450px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/></td>
-  </tr>   
-</table> 
-
----
-
-<h2>métricas</h2>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning       62 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-🌆 Daytime      337 commits       █████████████████░░░░░░░░   70.95 % 
-🌃 Evening       71 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-🌙 Night          5 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday          84 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Tuesday        115 commits       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Wednesday       95 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday        83 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Friday          79 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Saturday        15 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Sunday           4 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
-
-```
-
-
- Last Updated on 21/02/2023 18:38:24 UTC
-<!--END_SECTION:waka-->
-
----
-
-<h2>O que eu estava ouvindo 🎧</h2>
-<br>
-<div align="center">
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12148535604&width=500)
-
-</div> 
-
----
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Brunoazzireluto/count.svg" /></p> 
 <br></div>
-
-<div align="center">
-<img src="https://media0.giphy.com/media/ejyRYttU1toqHjNZOA/giphy.gif?cid=ecf05e47xzcqymp5fxqujbpqcputq2bqzmqns2k2vxg5h95c&rid=giphy.gif&ct=s" > 
-</div>
