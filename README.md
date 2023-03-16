@@ -33,12 +33,12 @@
 
 ### **Infrastructure**
 
-<img alt='Docker' title='Docker' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />|<img alt='Oracle Cloud' title='Oracle Cloud' width=55  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />|<img alt='Fedora' title='Fedora' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />|<img alt='Ubuntu' title='Ubuntu' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img alt='Docker' title='Docker' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />|<img alt='Oracle Cloud' title='Oracle Cloud' width=55 src="https://cdn.simpleicons.org/Oracle/#F80000.svg" />|<img alt='Fedora' title='Fedora' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />|<img alt='Ubuntu' title='Ubuntu' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 |--|--|--|--|
 
 ### **Databases**
 
-<img alt='SQLAlchemy' title='SQLAlchemy' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />|<img alt='MySQL' title='MySQL' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />|<img alt='SQL Server' title='SQL Server' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img alt='SQLAlchemy' title='SQLAlchemy' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />|<img alt='MySQL' title='MySQL' width=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />|<img alt='SQL Server' title='SQL Server' width=55 src="https://cdn.simpleicons.org/microsoftsqlserver/#CC2927.svg" />
 |--|--|--|
 
 ### **Tests**
@@ -63,7 +63,7 @@
 
 ### **Connect with me**
 
-<a href="https://www.linkedin.com/in/brunoazzireluto/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=55 /></a>|<a href="https://www.deviantart.com/brunoazzireluto"><img  src="https://cdn.simpleicons.org/deviantart/#05CC47.svg" width=55 /></a>|<a href='https://twitter.com/Azzireluto'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=55 /></a>|<a href="https://discordapp.com/users/457705373722345473"><img src="https://cdn.simpleicons.org/discord/##5865F2.svg" width=55 /></a>
+<a href="https://www.linkedin.com/in/brunoazzireluto/"><img title='Linkedin' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=55 /></a>|<a href="https://www.deviantart.com/brunoazzireluto"><img title='Devianart' src="https://cdn.simpleicons.org/deviantart/#05CC47.svg" width=55 /></a>|<a href='https://twitter.com/Azzireluto'><img title='Twitter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=55 /></a>|<a href="https://discordapp.com/users/457705373722345473"><img title='Discord' src="https://cdn.simpleicons.org/discord/##5865F2.svg" width=55 /></a>
 |--|--|--|--|
 
 </div>
