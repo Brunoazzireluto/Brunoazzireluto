@@ -53,7 +53,7 @@
 <br>
 
 ### **My Stats**
-<img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift,dart,blade&layout=compact&langs_count=6&theme=ocean_dark" />|<img width="450" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/>
+<img width="350" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift,dart,blade&layout=compact&langs_count=6&theme=ocean_dark" />|<img width="375" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/>
 |--|--|
 
 
