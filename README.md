@@ -5,7 +5,7 @@
 
 - 💼 I work as a Junior Developer at Maeda-st
 
-- 💻 Learning Node.Js and Express
+- 💻 Learning Typescript and Redux
 
 - 🔭 Currently focused on increasing my skills on how to develop and create better solutions and designs
 
