@@ -3,7 +3,7 @@
 
 <br>
 
-- 💼 I work as a Mid Fullstack Developer at R2sis
+- 💼 I work as a mid fullstack developer at R2sis
 
 - 💻 Learning Typescript and Node
 
