@@ -3,9 +3,9 @@
 
 <br>
 
-- 💼 I work as a Junior Developer at Maeda-st
+- 💼 I work as a Mid Fullstack Developer at R2sis
 
-- 💻 Learning Typescript and Redux
+- 💻 Learning Typescript and Node
 
 - 🔭 Currently focused on increasing my skills on how to develop and create better solutions and designs
 
