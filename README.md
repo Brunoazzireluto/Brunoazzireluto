@@ -5,7 +5,7 @@
 
 - 💼 I work as a mid fullstack developer at R2sis
 
-- 💻 Learning Typescript and Node
+- 💻 Learning FastAPI, SQLModel and Next.js
 
 - 🔭 Currently focused on increasing my skills on how to develop and create better solutions and designs
 
