@@ -5,15 +5,13 @@
 
 - 💼 I work as a mid fullstack developer at R2sis
 
-- 💻 Learning FastAPI, SQLModel and Next.js
+- 💻 Learning Go
 
 - 🔭 Currently focused on increasing my skills on how to develop and create better solutions and designs
 
-- ✍🏻 Learning to draw pixel art
-
 - ⚔️ Passionate about games, RPG, Music, fantasy stories and science fiction
 
-
+- 🌐 To know more about me, check my <a href="https://www.azzireluto.com.br/">website</a>
 
 ### **My Stats**
 <img width="350" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift,dart,blade&layout=compact&langs_count=8&theme=ocean_dark" />|<img width="375" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/>
