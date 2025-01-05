@@ -26,8 +26,8 @@
 
 ### **Connect with me**
 
-<a href="https://www.linkedin.com/in/brunoazzireluto/"><img title='Linkedin' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=55 /></a>|<a href="https://www.deviantart.com/brunoazzireluto"><img title='Devianart' src="https://cdn.simpleicons.org/deviantart/#05CC47.svg" width=55 /></a>|<a href='https://twitter.com/Azzireluto'><img title='Twitter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=55 /></a>|<a href="https://discordapp.com/users/457705373722345473"><img title='Discord' src="https://cdn.simpleicons.org/discord/##5865F2.svg" width=55 /></a>
-|--|--|--|--|
+<a href="https://www.linkedin.com/in/brunoazzireluto/"><img title='Linkedin' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=55 />|<a href='https://twitter.com/Azzireluto'><img title='Twitter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=55 /></a>
+|--|--|
 
 </div>
 
