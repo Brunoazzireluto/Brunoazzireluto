@@ -14,7 +14,7 @@
 - 🌐 To know more about me, check my <a href="https://www.azzireluto.com.br/">website</a>
 
 ### **My Stats**
-<img width="350" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift,dart,blade&layout=compact&langs_count=8&theme=ocean_dark" />|<img width="375" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/>
+<img width="350" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunoazzireluto&show_icons=true&hide=cmake,c,c%2B%2B,go,swift,dart,blade,php,mako&layout=compact&langs_count=8&theme=ocean_dark" />|<img width="375" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brunoazzireluto&theme=ocean_dark"/>
 |--|--|
 
 
